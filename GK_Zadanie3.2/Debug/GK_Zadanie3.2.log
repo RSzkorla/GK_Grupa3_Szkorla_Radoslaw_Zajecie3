@@ -1,0 +1,8 @@
+﻿  GK_Zadanie3.2.cpp
+d:\programowanie\gk_zadanie3\gk_zadanie3.2\gk_zadanie3.2.cpp(468): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+d:\programowanie\gk_zadanie3\gk_zadanie3.2\gk_zadanie3.2.cpp(473): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+d:\programowanie\gk_zadanie3\gk_zadanie3.2\gk_zadanie3.2.cpp(525): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\programowanie\gk_zadanie3\gk_zadanie3.2\gk_zadanie3.2.cpp(527): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\programowanie\gk_zadanie3\gk_zadanie3.2\gk_zadanie3.2.cpp(529): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\programowanie\gk_zadanie3\gk_zadanie3.2\gk_zadanie3.2.cpp(531): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  GK_Zadanie3.2.vcxproj -> D:\Programowanie\GK_Zadanie3\Debug\GK_Zadanie3.2.exe
